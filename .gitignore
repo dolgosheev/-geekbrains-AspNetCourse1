@@ -1,0 +1,6 @@
+*.dockerignore
+.vs/**
+**/appsettings.Development.json
+WebStore/WebStore.csproj.user
+WebStore/bin/
+WebStore/obj/
